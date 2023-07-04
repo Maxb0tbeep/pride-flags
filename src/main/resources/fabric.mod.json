@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "pride-flags",
+	"version": "${version}",
+	"name": "Pride Flags",
+	"description": "This adds placeable pride flags!",
+	"authors": [
+		"Maxb0tbeep"
+	],
+	"contact": {
+		"sources": "https://github.com/Maxb0tbeep/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/pride-flags/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.maxb0tbeep.prideflags.ExampleMod"
+		]
+	},
+	"mixins": [
+		"pride-flags.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.18.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
