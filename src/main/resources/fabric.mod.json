@@ -3,7 +3,7 @@
 	"id": "pride-flags",
 	"version": "${version}",
 	"name": "Pride Flags",
-	"description": "This adds placeable pride flags!",
+	"description": "Adds placeable pride flags!",
 	"authors": [
 		"Maxb0tbeep"
 	],
