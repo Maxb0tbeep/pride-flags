@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pride-flags:block/trans_pride_block" },
+    "facing=south": { "model": "pride-flags:block/trans_pride_block", "y": 180 },
+    "facing=west": { "model": "pride-flags:block/trans_pride_block", "y": 270 },
+    "facing=east": { "model": "pride-flags:block/trans_pride_block", "y": 90 }
+  }
+}

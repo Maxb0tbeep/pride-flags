@@ -1,3 +1,14 @@
 {
-  "block.pride-flags.pride_block": "Pride Block"
+  "itemGroup.pride-flags.pride": "Pride",
+  "block.pride-flags.pride_block": "Pride Block",
+  "block.pride-flags.old_pride_block": "Old Pride Block",
+  "block.pride-flags.asexual_pride_block": "Asexual Pride Block",
+  "block.pride-flags.bi_pride_block": "Bisexual Pride Block",
+  "block.pride-flags.enby_pride_block": "Non-Binary Pride Block",
+  "block.pride-flags.gay_pride_block": "Gay Pride Block",
+  "block.pride-flags.genderfluid_pride_block": "Genderfluid Pride Block",
+  "block.pride-flags.intersex_pride_block": "Intersex Pride Block",
+  "block.pride-flags.lesbian_pride_block": "Lesbian Pride Block",
+  "block.pride-flags.pan_pride_block": "Pansexual Pride Block",
+  "block.pride-flags.trans_pride_block": "Transgender Pride Block"
 }
