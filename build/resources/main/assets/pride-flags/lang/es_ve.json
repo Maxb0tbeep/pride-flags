@@ -1,0 +1,27 @@
+{
+  "itemGroup.pride-flags.pride": "Orgullo",
+  "block.pride-flags.pride_block": "Bloque de Orgullo",
+  "block.pride-flags.old_pride_block": "Bloque de la Bandera Vieja de Orgullo",
+  "block.pride-flags.asexual_pride_block": "Bloque de Orgullo Asexual",
+  "block.pride-flags.bi_pride_block": "Bloque de Orgullo Bisexual",
+  "block.pride-flags.enby_pride_block": "Bloque de Orgullo No-Binario"
+  "block.pride-flags.gay_pride_block": "Bloque de Orgullo Homosexual",
+  "block.pride-flags.genderfluid_pride_block": "Bloque de Orgullo Género-Fluido",
+  "block.pride-flags.intersex_pride_block": "Bloque de Orgullo Intersexual",
+  "block.pride-flags.lesbian_pride_block": "Bloque de Orgullo Lesbiana",
+  "block.pride-flags.pan_pride_block": "Bloque de Orgullo Pansexual",
+  "block.pride-flags.trans_pride_block": "Bloque de Orgullo Transgénero"
+
+  "block.pride-flags.flag": "Bandera Vacia",
+  "block.pride-flags.pride_flag": "Bandera de Orgullo",
+  "block.pride-flags.old_pride_flag": "Vieja Bandera de Orgullo",
+  "block.pride-flags.asexual_pride_flag": "Bandera de Orgullo Asexual",
+  "block.pride-flags.bi_pride_flag": "Bandera de Orgullo Bisexual",
+  "block.pride-flags.enby_pride_flag": "Bandera de Orgullo No-Binario",
+  "block.pride-flags.gay_pride_flag": "Bandera de Orgullo Homosexual",
+  "block.pride-flags.genderfluid_pride_flag": "Bandera de Orgullo Género-Fluido",
+  "block.pride-flags.intersex_pride_flag": "Bandera de Orgullo Intersexual",
+  "block.pride-flags.lesbian_pride_flag": "Bandera de Orgullo Lesbiana",
+  "block.pride-flags.pan_pride_flag": "Bandera de Orgullo Pansexual",
+  "block.pride-flags.trans_pride_flag": "Bandera de Orgullo Transgénero"
+}
