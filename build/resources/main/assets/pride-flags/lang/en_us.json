@@ -1,5 +1,6 @@
 {
   "itemGroup.pride-flags.pride": "Pride",
+
   "block.pride-flags.pride_block": "Pride Block",
   "block.pride-flags.old_pride_block": "Old Pride Block",
   "block.pride-flags.asexual_pride_block": "Asexual Pride Block",
@@ -10,5 +11,18 @@
   "block.pride-flags.intersex_pride_block": "Intersex Pride Block",
   "block.pride-flags.lesbian_pride_block": "Lesbian Pride Block",
   "block.pride-flags.pan_pride_block": "Pansexual Pride Block",
-  "block.pride-flags.trans_pride_block": "Transgender Pride Block"
+  "block.pride-flags.trans_pride_block": "Transgender Pride Block",
+
+  "block.pride-flags.flag": "Blank Flag",
+  "block.pride-flags.pride_flag": "Pride Flag",
+  "block.pride-flags.old_pride_flag": "Old Pride Flag",
+  "block.pride-flags.asexual_pride_flag": "Asexual Pride Flag",
+  "block.pride-flags.bi_pride_flag": "Bisexual Pride Flag",
+  "block.pride-flags.enby_pride_flag": "Non-Binary Pride Flag",
+  "block.pride-flags.gay_pride_flag": "Gay Pride Flag",
+  "block.pride-flags.genderfluid_pride_flag": "Genderfluid Pride Flag",
+  "block.pride-flags.intersex_pride_flag": "Intersex Pride Flag",
+  "block.pride-flags.lesbian_pride_flag": "Lesbian Pride Flag",
+  "block.pride-flags.pan_pride_flag": "Pansexual Pride Flag",
+  "block.pride-flags.trans_pride_flag": "Transgender Pride Flag"
 }

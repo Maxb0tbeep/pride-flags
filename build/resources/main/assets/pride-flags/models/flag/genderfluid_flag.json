@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "flag",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "pride-flags:flag/pole",
+		"1": "pride-flags:flag/genderfluid",
+		"particle": "pride-flags:flag/genderfluid"
+	},
+	"elements": [
+		{
+			"name": "pole",
+			"from": [15, 0, 8],
+			"to": [16, 15, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 15], "texture": "#0"},
+				"east": {"uv": [1, 0, 2, 15], "texture": "#0"},
+				"south": {"uv": [2, 0, 3, 15], "texture": "#0"},
+				"west": {"uv": [3, 0, 4, 15], "texture": "#0"},
+				"up": {"uv": [5, 1, 4, 0], "texture": "#0"},
+				"down": {"uv": [5, 1, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 7, 8],
+			"to": [15, 15, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 7, 4], "texture": "#1"},
+				"east": {"uv": [7, 5, 7.5, 9], "texture": "#1"},
+				"south": {"uv": [7, 0, 0, 4], "texture": "#1"},
+				"west": {"uv": [7, 1, 7.5, 5], "texture": "#1"},
+				"up": {"uv": [7, 0, 14, 0.5], "texture": "#1"},
+				"down": {"uv": [7, 0.5, 14, 1], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [2.75, 0, 0]
+		}
+	}
+}

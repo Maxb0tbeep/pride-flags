@@ -2,10 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:white_wool"
-    },
-    {
-      "item": "minecraft:cobblestone"
+      "item": "pride-flags:pride_block"
     }
   ],
   "result": {

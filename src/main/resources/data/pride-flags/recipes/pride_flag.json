@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pride-flags:flag"
+    }
+  ],
+  "result": {
+    "item": "pride-flags:pride_flag",
+    "count": 1
+  }
+}

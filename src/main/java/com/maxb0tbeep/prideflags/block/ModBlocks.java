@@ -2,6 +2,7 @@ package com.maxb0tbeep.prideflags.block;
 
 import com.maxb0tbeep.prideflags.PrideFlags;
 import com.maxb0tbeep.prideflags.block.custom.DirectionalBlock;
+import com.maxb0tbeep.prideflags.block.custom.FlagBlock;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
@@ -36,6 +37,32 @@ public class ModBlocks {
             new DirectionalBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f)), ModItemGroup.PRIDE);
     public static final Block TRANS_PRIDE_BLOCK = registerBlock("trans_pride_block",
             new DirectionalBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f)), ModItemGroup.PRIDE);
+
+    public static final Block FLAG = registerBlock("flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block PRIDE_FLAG = registerBlock("pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block OLD_PRIDE_FLAG = registerBlock("old_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block ASEXUAL_PRIDE_FLAG = registerBlock("asexual_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block BI_PRIDE_FLAG = registerBlock("bi_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block ENBY_PRIDE_FLAG = registerBlock("enby_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block GAY_PRIDE_FLAG = registerBlock("gay_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block GENDERFLUID_PRIDE_FLAG = registerBlock("genderfluid_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block INTERSEX_PRIDE_FLAG = registerBlock("intersex_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block LESBIAN_PRIDE_FLAG = registerBlock("lesbian_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block PAN_PRIDE_FLAG = registerBlock("pan_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+    public static final Block TRANS_PRIDE_FLAG = registerBlock("trans_pride_flag",
+            new FlagBlock(FabricBlockSettings.of(Material.WOOL).strength(.25f).nonOpaque().noCollision()), ModItemGroup.PRIDE);
+
 
     public static Block registerBlock(String name, Block block, ItemGroup group) {
         registerBlockItem(name, block, group);

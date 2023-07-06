@@ -10,5 +10,5 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
     public static final ItemGroup PRIDE = FabricItemGroupBuilder.build(new Identifier(PrideFlags.MOD_ID, "pride"),
-            () -> new ItemStack(ModBlocks.PRIDE_BLOCK));
+            () -> new ItemStack(ModBlocks.PRIDE_FLAG));
 }

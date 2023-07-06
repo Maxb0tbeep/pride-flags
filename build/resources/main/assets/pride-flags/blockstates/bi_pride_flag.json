@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pride-flags:flag/bi_flag" },
+    "facing=south": { "model": "pride-flags:flag/bi_flag", "y": 180 },
+    "facing=west": { "model": "pride-flags:flag/bi_flag", "y": 270 },
+    "facing=east": { "model": "pride-flags:flag/bi_flag", "y": 90 }
+  }
+}
