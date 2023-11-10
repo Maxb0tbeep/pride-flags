@@ -1,3 +1,6 @@
+# IMPORTANT
+Moved to https://gitlab.com/Maxb0tbeep/pride-flags
+
 # pride-flags
 This mod adds placeable pride flags to minecraft! You can use them for decoration or for fun. It includes these sexualities and gender identities.
 ```
